@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "美しき思い出　Starlight Ver.",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T19:20:19.062514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しき思い出 Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/01_美しき思い出_Starlight_Ver._amazarashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_美しき思い出_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_美しき思い出_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_美しき思い出_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_美しき思い出_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/06_美しき思い出_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しき思い出",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_美しき思い出_amazarashi.txt"
+    }
+  ]
+}
